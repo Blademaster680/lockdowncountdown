@@ -144,6 +144,7 @@
             <h2 class="center">
               HEY YOU <i class="fa fa-plus-circle"></i> GOT THIS
             </h2>
+            {{ totalDays }}
             <div class="divider-two margin-botom-50"></div>
             <!-- ./Headings -->
           </div>
@@ -170,7 +171,7 @@
     <script src="{% static 'frontend/plugins/bootstrap/bootstrap.js' %}"></script>
     <!--REQUIRED SCRIPT FILES FOR JQUERY COUNTDOWN-->
     <script>
-
+      var totalDays = "{{ totalDays }}"
       var lockdownDate = "{{ country.lockdownEnd|date:"m/d/Y" }}";
     </script>
     <script src="{% static 'frontend/plugins/countdown/jquery.countdown.js' %}"></script>

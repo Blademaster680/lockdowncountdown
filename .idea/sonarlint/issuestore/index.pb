@@ -25,3 +25,5 @@ F
 apps/frontend/views.py,8\2\82f0ce211e34650b85feeb7b73674297f6b62da5
 a
 1apps/frontend/templates/frontend/index-video.html,4\8\4851ef35fcf54981c19749d4dc0d70c78c315dc0
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768

@@ -56,7 +56,7 @@ function fillHourBar(percent) {
 
 function fillDayBar(percent) {
     $('#day-number').html(percent);
-    $('#day-bar').css('width', percent * 100 / 365 + '%');
+    $('#day-bar').css('width', percent * 100 / totalDays + '%');
 }
 
 function fillTotalbar(percent) {

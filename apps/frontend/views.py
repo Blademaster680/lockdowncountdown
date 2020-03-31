@@ -14,9 +14,12 @@ def indexview(request):
     progression = timeLeft / totalTime * 100
     progression = 100 - progression
 
+    totalDays = totalTime / 1440
+
     context = {
         'country': Country.objects.get(id=1),
-        'progression': round(progression)
+        'progression': round(progression),
+        'totalDays': round(totalDays)
     }
 
     return render(request, 'frontend/index-video.html', context)

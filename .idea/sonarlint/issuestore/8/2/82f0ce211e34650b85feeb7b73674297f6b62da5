@@ -1,7 +1,7 @@
 
-}python:S117"ZRename this local variable "totalTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(öŸ´›úÿÿÿÿ8¥õÜè’.
+{python:S117	"XRename this local variable "endDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï•‡Âüÿÿÿÿ8ëæ˜è’.
 xpython:S117"ZRename this local variable "startDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯šš8µ£Äè’.
+|python:S117"YRename this local variable "timeLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Í¨îùÿÿÿÿ8Åçßè’.
+}python:S117"ZRename this local variable "totalTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(öŸ´›úÿÿÿÿ8¥õÜè’.
 python:S117
 "\Rename this local variable "currentDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(—˜îèøÿÿÿÿ8µ£Äè’.
-{python:S117	"XRename this local variable "endDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï•‡Âüÿÿÿÿ8ëæ˜è’.
-|python:S117"YRename this local variable "timeLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Í¨îùÿÿÿÿ8Åçßè’.
