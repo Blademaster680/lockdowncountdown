@@ -4,9 +4,8 @@
     <list default="true" id="6b2a867a-10f0-40f9-9707-1bf3e2ae2404" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4851ef35fcf54981c19749d4dc0d70c78c315dc0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4851ef35fcf54981c19749d4dc0d70c78c315dc0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82f0ce211e34650b85feeb7b73674297f6b62da5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82f0ce211e34650b85feeb7b73674297f6b62da5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/frontend/static/frontend/js/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend/static/frontend/js/countdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/frontend/static/frontend/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend/static/frontend/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/frontend/templates/frontend/index-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend/templates/frontend/index-video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/frontend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/frontend/views.py" afterDir="false" />
     </list>
